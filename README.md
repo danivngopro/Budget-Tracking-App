@@ -82,11 +82,5 @@ $ npm start
 
 # The server will initialize in the <http://localhost:3000>
 
-# images:
-![image](https://user-images.githubusercontent.com/44786079/205324245-eb0f5d47-d44a-48b6-afba-524072185536.png)
-![image](https://user-images.githubusercontent.com/44786079/205324291-596a8763-f83b-4c96-a912-ef2375ca9fff.png)
-![image](https://user-images.githubusercontent.com/44786079/205324374-2a96015f-73f4-46c8-8fcf-d115bdf080b9.png)
-![image](https://user-images.githubusercontent.com/44786079/205324434-8dabe664-44d1-4eff-9f39-5d23649e1500.png)
-
 
 <a href="#top">Back to top</a>
